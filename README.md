@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Cooperly!
+- 🐱 I'm a furry and abrosexual!
 - 👀 I’m interested in creating discord bots!
 - 🌱 I’m currently learning how to code!
 - 💞️ I’m looking to collaborate on making discord bots! (with friends only right now, sorry)
