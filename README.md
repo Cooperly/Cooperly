@@ -1,5 +1,4 @@
-i'm void, and i guess i code and do silly stuff in my free time.
-that's all?
+i'm void, i do nerdy stuff. nothing interesting or spectacular
 
 <!---
 Cooperly/Cooperly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
