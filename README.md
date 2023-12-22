@@ -2,7 +2,7 @@
 # 💫 About Me:
 🌱 I’m currently learning how Java works
 
-💽 I specialize in managing, monitoring and optimizing Server Networks with previous experience from CNet, the Corruption Project, and ongoing experience with [v2k](https://github.com/v2thsnd)
+💽 I specialize in managing, monitoring and optimizing Server Networks with previous experience from CNet, with 15 players daily standing for a few months with absolutely no marketing or advertisements just word of mouth from satisfied players, and ongoing experience with [v2k](https://github.com/v2thsnd)
 
 
 ## 🌐 Socials:
