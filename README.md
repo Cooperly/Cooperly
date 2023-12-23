@@ -2,7 +2,7 @@
 # 💫 About Me:
 🌱 I’m currently learning how Java and HTML works
 
-💽 I specialize in managing, monitoring and optimizing Server Networks with previous experience from CNet, with 15 players daily for a few months with no marketing or advertisements just word of mouth from satisfied players, and ongoing experience with [v2k](https://github.com/v2knet) (link soon)
+💽 I specialize in managing, monitoring and optimizing Server Networks with previous experience from CNet, with 15 players daily for a few months with no marketing or advertisements just word of mouth from satisfied players, and ongoing experience with [v2k](https://github.com/v2ksh) (link soon)
 
 
 ## 🌐 Socials:
