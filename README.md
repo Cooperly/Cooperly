@@ -6,7 +6,7 @@ I have a little bit of knowledge in [C#](https://learn.microsoft.com/en-us/dotne
 
 [Linux](https://www.kernel.org) is something I'm somewhat well versed in, I can fully use and understand most modern distros from [Debian](https://www.debian.org) to [Arch](https://archlinux.org) (and any derivatives) for both personal and partial commercial use and I am starting to learn and use [NixOS](https://nixos.org) on my [primary system](https://github.com/Cooperly/NixOS), I can also perform basic system administration and deploy and setup most software on servers with or without a hypervisor (Like [Proxmox VE](https://www.proxmox.com)) being present.
 
-## Projects
+## Game Server Projects
 
 - [Protobit](https://protobit.space)
   - Modded Community Server for the video game [Rust](https://rust.facepunch.com/) with a lot of in-house mods and quality-of-life additions.
