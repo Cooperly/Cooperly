@@ -1,5 +1,3 @@
-<kbd>&nbsp;any&nbsp;</kbd>
-
 hi! I'm `void` (always lowercased, prefered name), you may know me by my brand name `Cooperly` or `CooperlyTV`.
 
 I have a little bit of knowledge in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview) and [Kotlin](https://kotlinlang.org), you might recognize me for creating niche mods for various indie titles and modded game servers that really push the limits of their respective game while not requiring any client-side modifications so players can quickly hop in and have a great time.
