@@ -12,4 +12,4 @@ I have a little bit of knowledge in [C#](https://learn.microsoft.com/en-us/dotne
   - Modded Community Server for the video game [Rust](https://rust.facepunch.com/) with a lot of in-house mods and quality-of-life additions.
 - Protobit Vanilla+ (fka Beeper-MC)
   - This project has been retired due to many contributors leaving for their own reasons.
-  - Modded Server for the video game [Minecraft](https://minecraft.net) that was a content packed server that still allowed you to join without client-mods which isn't done often or well in the space.
+  - Modded Server for the video game [Minecraft](https://minecraft.net) that was  content packed that still allowed you to join without client-mods which isn't done often or otherwise isn't done well in the space.
